@@ -1,3 +1,3 @@
 # Projects
 
-## Predicting Customer Churn with PyCaret: Boosting Business Performance
+## 1. Predicting Customer Churn with PyCaret: Boosting Business Performance
